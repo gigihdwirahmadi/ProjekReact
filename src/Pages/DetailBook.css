@@ -1,0 +1,35 @@
+.container{
+    display: grid;
+    margin-top: 30px;
+    grid-template-columns: auto auto;
+}
+.imagedivdtl{
+    min-width: 500px;
+}
+.imagedivdtl img{
+    height: 480px;
+    max-width: 470px;
+    border: 3px solid;
+}
+.textdtl{
+    padding: 30px;
+    display: grid;
+    align-items: center;
+    background-color: black;
+    justify-items: center;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.indiv{
+    padding: 50px;
+
+    color: white;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}

@@ -1,0 +1,88 @@
+{
+  "author": [
+    {
+      "id": 1,
+      "value": "William Shakespeare",
+      "label": "William Shakespeare",
+      "biografi": "William Shakespeare adalah seorang pujangga, dramawan, dan pemain sandiwara berkebangsaan Inggris, secara luas dianggap sebagai penulis drama berbahasa Inggris terhebat dan dramawan termasyhur di dunia. Ia sering disebut sebagai penyair nasional Inggris dan dijuluki Pujangga dari Avon"
+    },
+    {
+      "id": 2,
+      "value": "Agatha Christie",
+      "label": "Agatha Christie",
+      "biografi": "Dame Agatha Mary Clarissa Christie, DBE adalah seorang penulis fiksi kriminal Inggris yang terkenal dengan enam puluh enam novel detektif dan empat belas koleksi cerita pendeknya. Karyanya yang paling terkenal bercerita tentang detektif fiksi Hercule Poirot dan Miss Marple"
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "title": "Shakespeare's plays",
+      "author": "William Shakespeare",
+      "authorId": 1,
+      "genre": "Drama",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/8/82/Gilbert_WShakespeares_Plays.jpg",
+      "desc": "Shakespeare's plays portray recognisable people in situations that we can all relate to - including love, marriage, death, mourning, guilt, the need to make difficult choices, separation, reunion and reconciliation. They do so with great humanity, tolerance, and wisdom. They help us to understand what it is to be human, and to cope with the problems of being so.  "
+    },
+    {
+      "id": 2,
+      "title": "Whodunit",
+      "author": "Agatha Christie",
+      "authorId": 2,
+      "genre": "Drama",
+      "cover": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/The_Adventure_of_the_Abbey_Grange_03.jpg/220px-The_Adventure_of_the_Abbey_Grange_03.jpg",
+      "desc": "A whodunit or whodunnit is a complex, plot-driven variety of the detective story in which the puzzle is the main feature of interest. The reader or viewer is provided with clues from which the identity of the perpetrator of the crime may be deduced before the solution is revealed in the final pages of the book."
+    },
+    {
+      "title": "ANCIENT EGYPTIAN ECONOMICS ",
+      "desc": "Kemetic Wisdom of Saving and Investing in Wealth",
+      "genre": "NonFiction",
+      "author": "Agatha Christie",
+      "cover": "https://i.ebayimg.com/images/g/PrYAAOSwsydi0FCo/s-l500.jpg",
+      "id": 3
+    },
+    {
+      "title": "Origins of The Wheel of Time",
+      "desc": " Take a deep dive into the real-world history and mythology that inspired the world of Robert Jordan's The Wheel of Time®. Origins of The Wheel of Time is written by Michael Livingston, Secretary-General of the United States Commission on Military History and professor of medieval literature at The Citadel, with a Foreword by Harriet McDougal, Robert Jordan's editor, widow, and executor of his estate.  This companion to the internationally bestselling series will delve into the creation of Robert Jordan’s masterpiece, drawing from interviews and an unprecedented examination of his unpublished notes. Michael Livingston tells the behind-the-scenes story of who Jordan was, how he worked, and why he holds such an important place in modern literature.",
+      "genre": "Action",
+      "author": "William Shakespeare",
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644939172i/60405297.jpg",
+      "id": 4
+    },
+    {
+      "title": "uyu",
+      "desc": "yuyuyu",
+      "genre": "NonFiction",
+      "authorid": 2,
+      "cover": "hjjh",
+      "author": "Agatha Christie",
+      "id": 5
+    },
+    {
+      "title": "hgh",
+      "desc": "ghghg",
+      "genre": "NonFiction",
+      "authorid": 1,
+      "cover": "jhjh",
+      "author": "William Shakespeare",
+      "id": 6
+    },
+    {
+      "title": "ihihjh",
+      "desc": "jhjh",
+      "genre": "Romance",
+      "authorid": 1,
+      "cover": "jhkjhkjh",
+      "author": "William Shakespeare",
+      "id": 7
+    },
+    {
+      "title": "jjh",
+      "desc": "jhjh",
+      "genre": "NonFiction",
+      "authorid": 1,
+      "cover": "jhjh",
+      "author": "William Shakespeare",
+      "id": 8
+    }
+  ]
+}
