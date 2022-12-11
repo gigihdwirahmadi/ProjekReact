@@ -47,42 +47,6 @@
       "author": "William Shakespeare",
       "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644939172i/60405297.jpg",
       "id": 4
-    },
-    {
-      "title": "uyu",
-      "desc": "yuyuyu",
-      "genre": "NonFiction",
-      "authorid": 2,
-      "cover": "hjjh",
-      "author": "Agatha Christie",
-      "id": 5
-    },
-    {
-      "title": "hgh",
-      "desc": "ghghg",
-      "genre": "NonFiction",
-      "authorid": 1,
-      "cover": "jhjh",
-      "author": "William Shakespeare",
-      "id": 6
-    },
-    {
-      "title": "ihihjh",
-      "desc": "jhjh",
-      "genre": "Romance",
-      "authorid": 1,
-      "cover": "jhkjhkjh",
-      "author": "William Shakespeare",
-      "id": 7
-    },
-    {
-      "title": "jjh",
-      "desc": "jhjh",
-      "genre": "NonFiction",
-      "authorid": 1,
-      "cover": "jhjh",
-      "author": "William Shakespeare",
-      "id": 8
     }
   ]
 }

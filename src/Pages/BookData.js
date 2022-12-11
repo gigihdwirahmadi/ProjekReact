@@ -75,7 +75,7 @@ function BookData() {
       width: 20,
       render: (_, record) => <>
         <Space>
-          <Button  style={{ backgroundColor:"black"}} onClick={() => {
+          <Button style={{ backgroundColor: "black" }} onClick={() => {
             deleteData(record);
           }} type="primary" danger>
             Delete
@@ -92,16 +92,16 @@ function BookData() {
   return (
 
     <div className='wall2'>
-      <Space direction="vertical" size="middle" style={{ display: 'flex',paddingTop:"20px" }}>
-      <div><ModalAdd fungsi={setChange} state={change} status={"ADD"} idupdate="" /></div>
-      {loading ? (
-        "Loading") : (
-        <Table
-          columns={columns}
-          dataSource={state}
-          rowClassName={"table-antd"}
-        />
-      )}
+      <Space direction="vertical" size="middle" style={{ display: 'flex', paddingTop: "20px" }}>
+        <div><ModalAdd fungsi={setChange} state={change} status={"ADD"} idupdate="" /></div>
+        {loading ? (
+          "Loading") : (
+          <Table
+            columns={columns}
+            dataSource={state}
+            rowClassName={"table-antd"}
+          />
+        )}
       </Space>
     </div>
   );
